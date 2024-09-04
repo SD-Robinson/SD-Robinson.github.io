@@ -3616,6 +3616,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+		background-image: #c1a0dc4d, url("../images/monogram.png") center top no-repeat;
 		-moz-flex-direction: column;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
